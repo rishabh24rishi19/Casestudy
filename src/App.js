@@ -5,9 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to my DevOps Project</h1>
-        <p>This demonstates the completed pipeline.</p>
-        <p>Flows!!!</p>
+        <h1>Rishabh Srivastava</h1>
+        <p>The Jenkins pipeline demonstrated here showcases a complete Continuous Integration and Continuous Deployment (CI/CD) workflow.</p>
       </header>
     </div>
   );
