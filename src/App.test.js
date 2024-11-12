@@ -4,7 +4,7 @@ import App from './App';
 
 test('renders welcome message', () => {
   render(<App />);
-  const welcomeElement = screen.getByText('Rishabh Srivastava!');
+  const welcomeElement = screen.getByText('Rishabh Srivastava');
   expect(welcomeElement).toBeInTheDocument();
 });
 
